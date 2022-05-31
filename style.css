@@ -1,0 +1,12 @@
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+    background-color: #474043;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+#price{
+   color: #ff137f;
+}
